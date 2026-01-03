@@ -9,7 +9,7 @@ package academy.devdojo.maratonajava.introducao;
  * ctrl + alt+ q rendering
  */
 
-public class HelloDevDojo {
+public class Aula01HelloDevDojo {
     public static void main(String[] args) {
         // Single line comment (Evitar)
         /*
