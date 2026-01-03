@@ -6,7 +6,18 @@ public class Aula02TiposPrimitivos {
 // Always written in lowercase
 // There are 8: int, double, float, char, byte, short, long, boolean
 // Variables should always be in English
+        // Sempre se preocupar com o tamanho da variavel e ver o melhor a ser usado entre os 8
 int age = 10;
-        System.out.println(age);
+long numeroGrande = 100000;
+double salarioDouble = 2000;
+float salarioFloat = 2500;
+byte idadeBye = 127;
+short idadeShort= 10;
+boolean verdadeiro = true;
+boolean falso = false;
+char caractere = 87; // Ler no APDFS
+// Masculino e femenino
+
+        System.out.println(age); //ctrl + d duplica a linha
     }
 }
