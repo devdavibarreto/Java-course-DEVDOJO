@@ -22,4 +22,4 @@ para unicodes
  tem que definir '\u0041'
 ![img_6.png](img_6.png)
 
-Sempre pensar na escabilidade do seu programa !!
+Sempre pensar na escabilidade do seu programa !! é no tamanhos da varáivel
