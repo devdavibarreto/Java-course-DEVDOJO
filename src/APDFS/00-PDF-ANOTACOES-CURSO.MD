@@ -23,3 +23,6 @@ para unicodes
 ![img_6.png](img_6.png)
 
 Sempre pensar na escabilidade do seu programa !! é no tamanhos da varáivel
+
+Estou usado o JAVA 15 porem usando o nivel da linguagem do Java 8
+f4 no diretorio do arquivo  ate o nível da linguagem e em projeto e em modulos tbm

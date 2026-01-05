@@ -20,9 +20,12 @@ boolean verdadeiro = true;
 boolean falso = false;
 char caractere = 87; // Ler no APDFS
 // Masculino e femenino
+String name = "Davi";
 
         System.out.println(age); //ctrl + d duplica a linha
         System.out.println(age1); //ctrl + d duplica a linha
+
+        // String não é um tipo primitivo e um tipo de referenia REFERENCE TYPE  TEM QUE ESCREVER COM S Maisculo
     }
 }
 // Toda vez que você compila escrevendo o número direto no código ele vai entender que aquilo e um INT vc tem que
