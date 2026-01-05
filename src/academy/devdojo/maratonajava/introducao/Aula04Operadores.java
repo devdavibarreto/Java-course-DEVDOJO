@@ -17,5 +17,17 @@ public class Aula04Operadores {
         // Ele vai concatenar os outros valores não somar tipo o exemplo ficaria 102
         // Na verdade a partir do valor da String ele vai começar concatenar !!
 
+// Operador de resto %
+
+        int resto =  20 % 2;
+        System.out.println( resto);
+
+        // Operadores lógicos  sempre retorna um booleano < > <= >= comparação de igual ==  diferente !=
+        // Padrão sem usar is no  exemplo ficaria é10?
+
+        boolean isDezMaiorQueVinte = 10 > 20;
+        System.out.println(isDezMaiorQueVinte);
+        // Não tem como comparar uma string com um inteiro !
+
     }
 }
