@@ -32,3 +32,11 @@ f4 no diretorio do arquivo  ate o nível da linguagem e em projeto e em modulos 
 #if
 Não vai ser executado pq esta fazendo uma associação não uma comparação 
 ![img_7.png](img_7.png)
+
+
+# Tabela verdade
+ Tabela verdade é o que vai definir o que você vai ter como 
+ resultado  de uma expressão booleana
+ 
+![img_8.png](img_8.png)
+Uso da tabela !!
