@@ -26,3 +26,9 @@ Sempre pensar na escabilidade do seu programa !! é no tamanhos da varáivel
 
 Estou usado o JAVA 15 porem usando o nivel da linguagem do Java 8
 f4 no diretorio do arquivo  ate o nível da linguagem e em projeto e em modulos tbm
+
+
+
+#if
+Não vai ser executado pq esta fazendo uma associação não uma comparação 
+![img_7.png](img_7.png)
