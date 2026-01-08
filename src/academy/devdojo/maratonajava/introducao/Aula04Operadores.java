@@ -48,5 +48,40 @@ public class Aula04Operadores {
 
         // ctrl + alt +  l para organizar o código
 
+
+        // class 19 !!
+        // Operadores de  atribuição
+        // = += -= *= /= %= BÁSICAMENTE ISSO VAI DIMINUIR ALGUMAS LINHAS DE CÓDIGO
+        // Sempre escrever codigos flexivel sem hardcode que é escrever diretaente no codigo e deixar menos flexivel
+        //  tipo ao inves de eu escrever
+        /**
+         *  double bonus = 2000;
+         *  bonus = 1800 + 1000;
+         *  era para somar o valor do bonus original o certo seria
+         *  bonus = bonus + 1000 ( ou salvar esse valor dentro de uma variavel) private de preference
+         *   a forma de simplificar e
+         *   bonus += 1000; e vale tbm para os outros operadores
+         *   isso diminui o codigo otimiza e melhora !!
+         */
+ // Muitas vezes vamos te que incrementar
+        /**
+         * OPERADORES ÚNARIOS
+         */
+        int contador= 0;
+        contador++; // -- etc ao inves de contador += 1; ou contador = contador + 1 etc
+        System.out.println(contador);
+
+        /**
+         * EXISTE DIFERENÇA EM COLOCAR NA FRENTE E COLOCAR ATRAS
+         * ++contador
+         * contador++
+         *  Quando vc coloca antes vc esta dizendo que primeiro quer que execute a icrementação e quando
+         *  colocado depois vc esta deixando bem claro que quer que faça primeiro o que tem que ser feito depois icrementa
+         */
+
+
+
+
+
     }
 }
