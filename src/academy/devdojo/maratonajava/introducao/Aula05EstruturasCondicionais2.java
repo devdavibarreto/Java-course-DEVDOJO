@@ -26,14 +26,21 @@ public class Aula05EstruturasCondicionais2 {
 //        }
 
         // DEIXANDO O CÓDIGO MAIS LIMPO
-String categoria;
-        if (idade  < 15){
+        String categoria;
+        if (idade < 15) {
             categoria = "infantil";
-        } else if (idade >=15 && idade < 18) {
+        } else if (idade >= 15 && idade < 18) {
             categoria = "Juvenil";
-        }else{
+        } else {
             categoria = "adulto";
         }
         System.out.println(categoria);
+
+        // Posso usar operação ternaria nesse caso tbm mais não é recomendado
+        //  SE LER ASSIM
+        //      SE ESSE VERDADEIRO ENT INFANTIL SE FALSO ENT JUVENIL SE ESSA CONDIÇÃO idade >= 15 && idade < 18 FOR FALSA ENT ADULT
+        categoria = idade < 15 ? "infantil" : idade >= 15 && idade < 18 ? "Juvenil" : "Adulto";
+
     }
+
 }
