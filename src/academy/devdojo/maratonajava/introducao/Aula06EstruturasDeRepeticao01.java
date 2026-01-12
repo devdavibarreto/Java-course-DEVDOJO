@@ -21,12 +21,12 @@ public class Aula06EstruturasDeRepeticao01 {
         }while (count < 10);
 
 
-        // while vc coloca condições
-        // for trabalha com indices
+        // while : vc coloca condições
+        // for: trabalha com indices
         for (int i=0; i < 10 ; i++){
             System.out.println(i);
         }
-// vc pode omitir as chaves de todos porém é uma prática não recomendada
+//obs: vc pode omitir as chaves de todos porém é uma prática não recomendada
         // Comparar senha com a senha do banco de dados etc !!
         String senha = "123";
         while (!senha.equals("1234")) {
