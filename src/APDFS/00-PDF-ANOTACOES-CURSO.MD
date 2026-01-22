@@ -40,3 +40,6 @@ Não vai ser executado pq esta fazendo uma associação não uma comparação
  
 ![img_8.png](img_8.png)
 Uso da tabela !!
+
+
+Up until approximately lesson 27, I was watching the lessons in Portuguese; after that lesson, I switched to the English version of the course.
