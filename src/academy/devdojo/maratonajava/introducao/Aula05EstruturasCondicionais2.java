@@ -38,7 +38,7 @@ public class Aula05EstruturasCondicionais2 {
 
         // Posso usar operação ternaria nesse caso tbm mais não é recomendado
         //  SE LER ASSIM
-        //      SE ESSE VERDADEIRO ENT INFANTIL SE FALSO ENT JUVENIL SE ESSA CONDIÇÃO idade >= 15 && idade < 18 FOR FALSA ENT ADULT
+        //      SE ESSE VERDADEIRO, ENT INFANTIL, SE FALSO ENT JUVENIL ,SE ESSA CONDIÇÃO idade >= 15 && idade < 18 FOR FALSA, ENT ADULT.
         categoria = idade < 15 ? "infantil" : idade >= 15 && idade < 18 ? "Juvenil" : "Adulto";
 
     }

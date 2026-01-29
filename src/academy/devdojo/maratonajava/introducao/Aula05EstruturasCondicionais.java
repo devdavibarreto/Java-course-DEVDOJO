@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais {
     public static void main(String[] args) {
-        // O if só é executado se a condicional que estiver dentro dele for verdadeira !!
+        // O if, só é executado se a condicional que estiver dentro dele for verdadeira !!
         /**
          * Uma forma tambem muito vista do if
          * boolean autorizado = idade >= 20;
