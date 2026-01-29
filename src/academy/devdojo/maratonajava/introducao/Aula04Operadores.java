@@ -9,7 +9,7 @@ public class Aula04Operadores {
 // Pode ser salvo dentro de uma variavel tbm
         int resultado = numero1 + numero2;
         System.out.println(numero1 * numero2);
-// Se eu dividir 10/ 20 usando inteiro dara um resultado inteiro !! no caso 0 tenho que tomar cuidado em relação a isso
+// Se eu dividir 10/ 20, usando inteiro, dara um resultado inteiro !! No caso 0 ,tenho que tomar cuidado em relação a isso
         // Para que não der valores fora do comum
         // é possivel fazer um cast tbm
         // double resultado = numero01 / (double)  numero02;
@@ -22,7 +22,7 @@ public class Aula04Operadores {
         int resto = 20 % 2;
         System.out.println(resto);
 
-        // Operadores lógicos  sempre retorna um booleano < > <= >= comparação de igual ==  diferente !=
+        // Operadores lógicos,  sempre retorna um booleano, < > <= >= comparação de igual ==  diferente !=
         // Padrão sem usar is no  exemplo ficaria é10?
 
         boolean isDezMaiorQueVinte = 10 > 20;
@@ -46,13 +46,13 @@ public class Aula04Operadores {
         boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
         System.out.println( "isPlaystationCincoCompravel " + isPlaystationCincoCompravel);
 
-        // ctrl + alt +  l para organizar o código
+        // ctrl + alt +  l para organizar o código.
 
 
         // class 19 !!
         // Operadores de  atribuição
         // = += -= *= /= %= BÁSICAMENTE ISSO VAI DIMINUIR ALGUMAS LINHAS DE CÓDIGO
-        // Sempre escrever codigos flexivel sem hardcode que é escrever diretaente no codigo e deixar menos flexivel
+        // Sempre escrever codigos flexivel, sem hardcode que é escrever diretaente no codigo, é deixar menos flexivel
         //  tipo ao inves de eu escrever
         /**
          *  double bonus = 2000;
