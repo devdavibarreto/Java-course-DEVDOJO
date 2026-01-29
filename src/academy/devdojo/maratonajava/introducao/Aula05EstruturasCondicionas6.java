@@ -14,6 +14,7 @@ public class Aula05EstruturasCondicionas6 {
                 case 7:
                 System.out.println("Fds");
                 break;
+                // CASE 2 A 6 Mesma resposta !!
             case 2:
             case 3:
             case 4:

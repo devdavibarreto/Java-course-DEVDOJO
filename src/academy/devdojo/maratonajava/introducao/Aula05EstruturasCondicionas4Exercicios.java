@@ -39,8 +39,8 @@ public class Aula05EstruturasCondicionas4Exercicios {
     /**
      *  } else if ( salarioAnual <= 68507) {
      *             salarioAnual *= segundaFaixaDeImposto;
-     *             Seria possivel escrever assim tbm e resumi a operação so que não fica uma leitura agradavel
-     *             quando estou no bloco de if else if else completo a partir do momento que um true ele ja pula os outros
+     *             Seria possivel escrever assim, tbm e resumi a operação, so que não fica uma leitura agradavel
+     *             quando, estou no bloco de if else if else completo, a partir do momento que um true ele ja pula os outros
      *             Agora quando eu tenho somente if if if ele vai passar por todos para ver se encaixa
      *
      *             é vai ser true tbm então isso eu já provoco um bug na minha aplicação  ele vai se encaixar nas duas
