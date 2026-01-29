@@ -8,8 +8,8 @@ public class Aula02TiposPrimitivos {
 // Variables should always be in English
         // Sempre se preocupar com o tamanho da variavel e ver o melhor a ser usado entre os 8
 int age = 10;
-int age1 = (int) 10000000000000000L; // Pq tem que tomar cuidado para não forçar  ele colocar um tipo dentro de um outro tipo
-        // Essa pratíca se chama CAST mesma coisa para double float etc  quando cabe vc tem o resultado quando
+int age1 = (int) 10000000000000000L; // Pq tem que tomar cuidado para não forçar , ele colocar um tipo dentro de um outro tipo.
+        // Essa pratíca se chama CAST, mesma coisa para double, float etc.  Quando cabe vc tem o resultado, quando
         // não cabe vc vai ter um "corrompido".
 long numeroGrande = 100000;
 double salarioDouble = 20000; //Valores Decimais
@@ -25,9 +25,9 @@ String name = "Davi";
         System.out.println(age); //ctrl + d duplica a linha
         System.out.println(age1); //ctrl + d duplica a linha
 
-        // String não é um tipo primitivo e um tipo de referenia REFERENCE TYPE  TEM QUE ESCREVER COM S Maisculo
+        // String não é um tipo primitivo, é um tipo de referencia, REFERENCE TYPE , TEM QUE ESCREVER COM S Maisculo.
     }
 }
-// Toda vez que você compila escrevendo o número direto no código ele vai entender que aquilo e um INT vc tem que
+// Toda vez que você compila, escrevendo o número direto no código, ele vai entender que aquilo e um INT, vc tem que
 // Especificar !! exemplo coloca um L no int
 // Cast não é uma boa pratica a ser feita !!
